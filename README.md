@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on a11ybrasil<br>👯 I’m looking to collaborate on any a11y projects<br>🤝 I’m looking for help with a11ybrasil<br>🌱 I’m currently learning Front-End development<br>
+# ⚡️ About Me:
+
+I'm a Front-End Developer with a passion for accessibility. I'm currently working on the project "a11ybrasil", which aims to make the web more accessible to everyone.
+
+I love collaborating with others on accessibility projects, and I'm always looking for new opportunities to learn and grow as a developer. I'm eager to help out with any accessibility projects you have going on!
+
+As for my skills, I'm well-versed in HTML, CSS, and JavaScript, and I'm constantly learning about new technologies and techniques to improve my skills. I'm committed to making the web a more inclusive and accessible place for everyone.
+
+🔭 I'm always on the lookout for new accessibility projects to work on.<br>👯 Let's collaborate and make the web more accessible!<br>🤝 I'd love to help you with any accessibility challenges you're facing.<br>🌱 I'm always growing and learning as a junior Front-End Developer.<br>
 
 
 ## 🌐 Socials:
